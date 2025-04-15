@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="openSettingsButton" type="id" />
+    <item name="resultText" type="id" />
+    <item name="convertButton" type="id" />
+    <item name="toUnitSpinner" type="id" />
+    <item name="fromUnitSpinner" type="id" />
+    <item name="inputValue" type="id" />
+</resources>

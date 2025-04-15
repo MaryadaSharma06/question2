@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">unit_converter</string>
+    <string name="enter_value" />
+    <string name="from_unit" />
+    <string name="to_unit" />
+    <string name="convert_it" />
+    <string name="result_will_appear_here" />
+    <string name="convert">CONVERT</string>
+    <string name="settings">Settings</string>
+</resources>
